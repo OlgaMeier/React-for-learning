@@ -14,7 +14,7 @@
   /*центритуем карточки по горизонтали*/
   justify-content: space-around;
   row-gap: 20px;
-  width: 600px;
+  width: 100vw;
   margin-top: 20px;
   background-color: rgb(12, 12, 112);
   color: #f6fa1d;
@@ -28,4 +28,7 @@
   padding: 30px;
   margin: 20px;
   background-color: rgb(26, 245, 245);
+}
+.ImgCard{
+  width: 20%;
 }

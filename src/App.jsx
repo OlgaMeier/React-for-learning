@@ -11,7 +11,7 @@ function App() {
     type_of_Activity: "Astronaut",
     hair_Color: "Red",
     height_of_Person: 180,
-    src: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fst.depositphotos.com%2F1035224%2F4185%2Fi%2F450%2Fdepositphotos_41857239-stock-photo-group-of-astronauts.jpg&tbnid=zvHq4r2GuKEgNM&vet=12ahUKEwjSpYTssa6EAxVIoP0HHX7JATwQMygVegUIARCFAQ..i&imgrefurl=https%3A%2F%2Fdepositphotos.com%2Feditorial%2Fgroup-of-astronauts-41857239.html&docid=TFCoci49D0_EUM&w=600&h=449&q=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8%20jpg%20astronauts&ved=2ahUKEwjSpYTssa6EAxVIoP0HHX7JATwQMygVegUIARCFAQ.jpg",
+    src: "./IMG/Lion_Rug.jpg",
     isWild: true
   };
   const profileDataSecond = {
@@ -19,7 +19,7 @@ function App() {
     type_of_Activity: "Astronaut",
     hair_Color: "Brown",
     height_of_Person: 175,
-    src: "https://276709.selcdn.ru/proektoria/professions/2020/04/29/c22abfa379f38b5b0411bc11fa9bf92f/2020-04-29_12-33-02.jpg",
+    src: "./IMG/Arian__Wivat.jpg",
     isWild: true
   };
   const profileDataThird = {
@@ -27,7 +27,7 @@ function App() {
     type_of_Activity: "Astronaut",
     hair_Color: "Light brown",
     height_of_Person: 168,
-    src: "https://avatars.dzeninfra.ru/get-zen_doc/209388/pub_650cfb7e21620872d3983854_650d0684edecc713f37d6aa1/scale_1200",
+    src: "./IMG/Lilo_Lilian.jpg",
     isWild: true
   };
 
