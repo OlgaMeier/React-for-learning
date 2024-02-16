@@ -1,21 +1,31 @@
 .App {
   display: flex;
-  flex: 1;
   flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(56, 56, 246);
+  height:100% ;
 }
-
-.button-container {
+.ProfileCard-container {
   display: flex;
-  flex-direction: column;
-  width: 200px;
-}
+  flex-direction: row;
+  /*позволит перенести карточки на новую строку если надо*/
+  flex-wrap: wrap;
+  /*центритуем карточки по горизонтали*/
+  justify-content: space-around;
+  row-gap: 20px;
+  width: 600px;
+  margin-top: 20px;
+  background-color: rgb(12, 12, 112);
+  color: #f6fa1d;
+  font-size: larger;
+ }
 
-.car-card {
+.ProfileCard-card {
   display: flex;
-  flex-direction: column;
   width: 400px;
-  height: fit-content;
   border: 1px solid black;
   padding: 30px;
   margin: 20px;
+  background-color: rgb(26, 245, 245);
 }
