@@ -1,0 +1,12 @@
+/* import to Button.jsx*/
+.button {
+    background-color: #1F27F5;
+    color: #f8f2f2;
+    width: Fixed(470px);
+    padding: 20px,54px,20px,54px;
+    border-radius: 5px;
+    cursor: pointer
+}
+.button:hover{
+    background-color:lightgoldenrodyellow;
+}
