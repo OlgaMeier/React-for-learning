@@ -1,0 +1,14 @@
+/* Feedback components*/
+.feedback-container{
+    display: flex;
+    justify-content: column;
+    align-items: center;
+}
+.button-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.button-container span{
+    margin-left: 10px;
+}
